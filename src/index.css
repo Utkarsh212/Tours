@@ -1,0 +1,7 @@
+:root {
+    background-color: #ecdebf;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
